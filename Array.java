@@ -7,7 +7,7 @@ public class Array {
 		stdname[0]="user1";
 		stdname[1]="user2";
 		stdname[2]="user3";
-		System.out.println("Student name is:"+stdname[0]);
+		System.out.println("Student name is hello world:"+stdname[0]);
 	}
 	public void display2()
 	{
